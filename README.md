@@ -1,7 +1,7 @@
 ## My Portofolio 👩‍💻
 
 ## About Me 
-I'm an aspiring Ai Engineer and Data Scientist passionate about learning new technologies and building various projects
+I'm an aspiring Ai Engineer and Data Scientist passionate about learning new technologies and building various projects 🤖📚  
 
 ## Skills
 - 🐍 Python
