@@ -1,14 +1,25 @@
-# 👩‍💻 My Portfolio
+
+
+ 👩‍💻 My Portfolio
+
+<img align="right" src="https://github.com/user-attachments/assets/75ae35e9-73b4-404f-a29c-568d2749d525" width="180" />
+
+
+
+       
+
+
+
 
 ## About Me
-I'm an aspiring **AI Engineer and Data Scientist** with a strong interest in building intelligent systems and data-driven solutions.  
-I enjoy learning new technologies and applying them through hands-on projects 🤖📚
+I'm an aspiring **AI Engineer and Data Scientist** with a strong interest in building intelligent systems and data-driven solutions.I enjoy learning new technologies and applying them through hands-on projects 🤖📚
 
----
+
 
 ## Skills
 
-**Programming**
+
+
 - 🐍 Python  
 
 **Machine Learning & AI**
@@ -18,7 +29,7 @@ I enjoy learning new technologies and applying them through hands-on projects �
 - 📊 Data Analysis  
 - 🗄️ SQL 
 
----
+
 
 ## Languages and Tools
 
