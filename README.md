@@ -16,7 +16,7 @@ My work combines Machine Learning, Computer Vision, NLP, OCR, Generative AI, and
 An AI-powered assistive system designed to support visually impaired users through real-time environmental understanding and audio feedback.
 
 - Atlas.ai — Intelligent Document & Financial Analysis
-An AI-powered document processing system designed to extract information from financial and business documents and transform unstructured data into structured insights.
+An AI-powered document processing system designed to extract information from financial and business documents, transform unstructured data into structured insights, and generate a financial health dashboard for SMEs
 
 - Rai.ai — AI-Powered Intelligent Assistant
 An Arabic sentiment analysis platform for analyzing customer reviews and opinions about products, with a focus on understanding both Modern Standard Arabic and Arabic dialects.
@@ -24,7 +24,7 @@ An Arabic sentiment analysis platform for analyzing customer reviews and opinion
 ---
 ## Technical Skills
 
-### 🐍 Programming
+### Programming
 - Python  
 - SQL
 - C++
@@ -50,7 +50,7 @@ SQL · PostgreSQL · MySQL · SQLite · ChromaDB · ETL · Data Cleaning · Data
 ### Tools & Platforms
 Git · GitHub · Microsoft Azure · Google Colab · Jupyter · VS Code
 
-
+---
 ### 🎯 What I'm Currently Exploring
 - Arabic NLP and multilingual AI systems
 - Computer Vision and intelligent perception systems
