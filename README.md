@@ -12,13 +12,14 @@ My work combines Machine Learning, Computer Vision, NLP, OCR, Generative AI, and
 
 ---
 # 🚀 Featured AI Projects
-Qumra Glasses — AI Assistive Technology
+- Qumra Glasses — AI Assistive Technology
 An AI-powered assistive system designed to support visually impaired users through real-time environmental understanding and audio feedback.
 
-Atlas.ai — Intelligent Document & Financial Analysis
+- Atlas.ai — Intelligent Document & Financial Analysis
 An AI-powered document processing system designed to extract information from financial and business documents and transform unstructured data into structured insights.
 
-Rai.ai — AI-Powered Intelligent Assistant
+- Rai.ai — AI-Powered Intelligent Assistant
+An Arabic sentiment analysis platform for analyzing customer reviews and opinions about products, with a focus on understanding both Modern Standard Arabic and Arabic dialects.
 
 ---
 ## Technical Skills
