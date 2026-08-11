@@ -1,43 +1,61 @@
 👩‍💻 My Portfolio
 
-<img align="right" src="https://github.com/user-attachments/assets/75ae35e9-73b4-404f-a29c-568d2749d525" width="180" />
 
 ---
 
 ## About Me
+Hi, I'm Jana
 
-I'm an aspiring **AI Engineer and Data Scientist** passionate about building intelligent, real-world AI systems that solve meaningful problems.
+I'm an aspiring AI Engineer and Data Scientist focused on building end-to-end AI solutions that transform ideas into practical, real-world applications.
 
-I focus on developing **end-to-end AI solutions** using modern tools in **Machine Learning, NLP, and LLMs**, with a special interest in **Arabic NLP and generative AI systems**.
-
-I enjoy turning ideas into practical projects using **FastAPI, Hugging Face, and LLM APIs like Groq**, while continuously improving my skills through hands-on learning and experimentation 🤖📊
+My work combines Machine Learning, Computer Vision, NLP, OCR, Generative AI, and Data Science, with a particular interest in Arabic AI applications and intelligent systems. I enjoy working across the full development pipeline — from data processing and model development to API integration, application development, and deployment.
 
 ---
+# 🚀 Featured AI Projects
+Qumra Glasses — AI Assistive Technology
+An AI-powered assistive system designed to support visually impaired users through real-time environmental understanding and audio feedback.
 
-## Skills
+Atlas.ai — Intelligent Document & Financial Analysis
+An AI-powered document processing system designed to extract information from financial and business documents and transform unstructured data into structured insights.
+
+Rai.ai — AI-Powered Intelligent Assistant
+
+---
+## Technical Skills
 
 ### 🐍 Programming
 - Python  
-- SQL  
+- SQL
+- C++
 
-### 🤖 AI & Machine Learning
-- Machine Learning (Classification, Regression, Feature Engineering)
-- Deep Learning (Neural Networks)
-- NLP (Natural Language Processing)
-- LLM Applications & Prompt Engineering
-- Arabic NLP (AraBERT, CamelBERT)
-- Computer Vision (YOLO)
+### AI & Machine Learning
+Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · LLMs · RAG · Prompt Engineering
 
-### ⚙️ Backend & AI Systems
-- FastAPI (REST APIs for AI systems)
-- RAG (Retrieval-Augmented Generation) systems
-- LLM Integration (Hugging Face, Groq APIs)
-- Vector-based search pipelines
+### Computer Vision & OCR
+YOLO · Object Detection · Object Tracking · Face Recognition · PaddleOCR · Tesseract · EasyOCR
 
-### 📊 Data
-- Data Analysis & Visualization  
-- Pandas, NumPy  
+### LLM & NLP Technologies
+Hugging Face Transformers · LangChain  · LLM APIs · Embeddings · Vector Databases
 
+### Backend & Application Development
+Python · FastAPI · Streamlit · REST APIs 
+
+### Data Science & Analytics
+Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Power BI
+
+### Databases & Data Engineering
+SQL · PostgreSQL · MySQL · SQLite · ChromaDB · ETL · Data Cleaning · Data Modeling
+
+### Tools & Platforms
+Git · GitHub · Microsoft Azure · Google Colab · Jupyter · VS Code
+
+
+### 🎯 What I'm Currently Exploring
+- Arabic NLP and multilingual AI systems
+- Computer Vision and intelligent perception systems
+- RAG and knowledge-based AI applications
+- AI-powered automation and document intelligence
+- Deploying AI models through APIs and interactive applications
 ---
 
 ## Languages and Tools
