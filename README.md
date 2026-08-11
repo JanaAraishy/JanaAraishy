@@ -59,41 +59,110 @@ Git · GitHub · Microsoft Azure · Google Colab · Jupyter · VS Code
 - Deploying AI models through APIs and interactive applications
 ---
 
-## Languages and Tools
+## Technical Tools
+
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
 
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
-  </a>
+<!-- Python -->
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</a>
 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  </a>
+<!-- FastAPI -->
 
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40" alt="FastAPI"/>
+</a>
 
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  </a>
+<!-- PyTorch -->
 
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/>
-  </a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+</a>
 
-  <a href="https://groq.com/" target="_blank">
-    <img src="https://groq.com/wp-content/uploads/2024/03/Groq-Logo.svg" width="40" height="40"/>
-  </a>
+<!-- Hugging Face -->
+
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" alt="Hugging Face"/>
+</a>
+
+<!-- OpenCV -->
+
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
+</a>
+
+<!-- YOLO -->
+
+<a href="https://ultralytics.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yolo/yolo-original.svg" width="40" height="40" alt="YOLO"/>
+</a>
+
+<!-- PaddleOCR -->
+
+<a href="https://www.paddleocr.ai/" target="_blank">
+  <img src="https://raw.githubusercontent.com/PaddlePaddle/PaddleOCR/main/docs/images/ocr-logo.png" width="40" height="40" alt="PaddleOCR"/>
+</a>
+
+<!-- LangChain -->
+
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/>
+</a>
+
+<!-- Pandas -->
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+</a>
+
+<!-- NumPy -->
+
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+</a>
+
+<!-- Scikit-learn -->
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+</a>
+
+<!-- Power BI -->
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
+</a>
+
+<!-- MySQL -->
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</a>
+
+<!-- PostgreSQL -->
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+
+<!-- SQLite -->
+
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+</a>
+
+<!-- Streamlit -->
+
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" alt="Streamlit"/>
+</a>
+
 </p>
+
+
 
 
 
