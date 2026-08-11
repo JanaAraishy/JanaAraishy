@@ -61,6 +61,12 @@ Git · GitHub · Microsoft Azure · Google Colab · Jupyter · VS Code
 - AI-powered automation and document intelligence
 - Deploying AI models through APIs and interactive applications
 ---
+### 🧩 Coding Practice
+
+<a href="https://www.codewars.com/users/JanaAraishy" target="_blank">
+  <img src="https://www.codewars.com/users/YOUR_USERNAME/badges/large" alt="Codewars Badge"/>
+</a>
+---
 
 ## Technical Tools
 
