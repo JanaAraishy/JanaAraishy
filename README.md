@@ -21,8 +21,9 @@ An AI-powered document processing system designed to extract information from fi
 - Rai.ai — AI-Powered Intelligent Assistant
 An Arabic sentiment analysis platform for analyzing customer reviews and opinions about products, with a focus on understanding both Modern Standard Arabic and Arabic dialects.
 
--TeachMePython — RAG-Powered Python Learning Chatbot
+- TeachMePython — RAG-Powered Python Learning Chatbot
 An AI-powered chatbot designed to help users learn Python programming through interactive, context-aware conversations.
+
 
 ---
 ## Technical Skills
