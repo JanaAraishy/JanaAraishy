@@ -64,8 +64,9 @@ Git · GitHub · Microsoft Azure · Google Colab · Jupyter · VS Code
 ### 🧩 Coding Practice
 
 <a href="https://www.codewars.com/users/JanaAraishy" target="_blank">
-  <img src="https://www.codewars.com/users/YOUR_USERNAME/badges/large" alt="Codewars Badge"/>
+  <img src="https://www.codewars.com/users/JanaAraishy/badges/large" alt="Codewars Badge"/>
 </a>
+
 ---
 
 ## Technical Tools
